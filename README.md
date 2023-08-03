@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=plutoyty&no-frame=true" /> </div>
 
 <div  align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=plutoyty&show_icons=true&theme=Gradient&cache_seconds=1800&locale=en" alt="plutoyty" />  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plutoyty&theme=Gradient" 
+   <img src="https://github-readme-stats.vercel.app/api?username=plutoyty&show_icons=true&theme=radical&cache_seconds=1800&locale=en" alt="plutoyty" />  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=plutoyty&theme=radical" 
     alt="JasonTaylorDev GitHub Top Languages" />
 </div>
 
