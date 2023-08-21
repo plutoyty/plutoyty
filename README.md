@@ -31,13 +31,14 @@ Here are some ideas to get you started:
     alt="JasonTaylorDev GitHub Top Languages" />
 </div>
 
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plutoyty/plutoyty/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/plutoyty/plutoyty/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/plutoyty/plutoyty/output/github-contribution-grid-snake.svg">
 </picture>
--->
+
+
 
 <!--
 ![image](https://camo.githubusercontent.com/e35b28de86d5a6af6d1c6cc7dda9f1e90b79c0b52ae83163e4e095fd70d5c40c/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f5a4e356f6b50623339355437472f67697068792e676966)
